@@ -7,3 +7,10 @@ git branch -M main
 git branch
 git log
 git commit -a -m "This is skipping the staging part"
+mkdir
+mkdir java-course
+echo "# JavaFundamentals" >> README.md
+git add README.md
+git branch
+C:/windows/system32: ipconfig
+hostname
