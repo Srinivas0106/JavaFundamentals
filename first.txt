@@ -14,3 +14,13 @@ git add README.md
 git branch
 C:/windows/system32: ipconfig
 hostname
+git ls-files
+git init
+ssh-keygen /ssh-keygen -o
+Generating public/private ed25519 key pair. and y
+dir
+ ssh-keygen -t ed25519 -C "seeramsrinivas1@gmail.com"
+
+mkdir java-course
+echo "# JavaFundamentals" >> README.md
+git add README.md
