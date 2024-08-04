@@ -1,0 +1,9 @@
+This is only creating for Git
+git init 
+git status
+git add first.txt
+git commit -m "this is first text"
+git branch -M main
+git branch
+git log
+
