@@ -6,4 +6,4 @@ git commit -m "this is first text"
 git branch -M main
 git branch
 git log
-
+git commit -a -m "This is skipping the staging part"
